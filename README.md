@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://quickoechannel.github.io/wondershare-pdfelement-windows/) picks English or Russian from the browser. Switch: [English](https://quickoechannel.github.io/wondershare-pdfelement-windows/?lang=en) · [Русский](https://quickoechannel.github.io/wondershare-pdfelement-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/wondershare-pdfelement"><img src="docs/media/preview.jpg" alt="PDFelement preview" width="640"></a>
+</p>
+
 Wondershare PDFelement · MoggyDay · 13.0 · v13.0.7
 
 # Wondershare PDFelement 13.0 “for Windows: PDF edit, OCR, Office export” [v13.0.7]
